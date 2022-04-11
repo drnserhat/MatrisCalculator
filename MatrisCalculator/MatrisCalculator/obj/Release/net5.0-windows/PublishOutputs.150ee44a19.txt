@@ -1,0 +1,5 @@
+C:\Users\excalibur\Desktop\MatrisCalculator.exe
+C:\Users\excalibur\Desktop\MatrisCalculator.dll
+C:\Users\excalibur\Desktop\MatrisCalculator.deps.json
+C:\Users\excalibur\Desktop\MatrisCalculator.runtimeconfig.json
+C:\Users\excalibur\Desktop\MatrisCalculator.pdb

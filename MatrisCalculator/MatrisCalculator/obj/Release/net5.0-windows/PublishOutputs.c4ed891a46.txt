@@ -1,0 +1,5 @@
+C:\Users\excalibur\Desktop\Yeni klasör\MatrisCalculator.exe
+C:\Users\excalibur\Desktop\Yeni klasör\MatrisCalculator.dll
+C:\Users\excalibur\Desktop\Yeni klasör\MatrisCalculator.deps.json
+C:\Users\excalibur\Desktop\Yeni klasör\MatrisCalculator.runtimeconfig.json
+C:\Users\excalibur\Desktop\Yeni klasör\MatrisCalculator.pdb
